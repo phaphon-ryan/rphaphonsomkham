@@ -1,2 +1,2 @@
-# rphaphonsomkham
-Lab 1 - OPS435
+Ryan Phaphonsomkham
+OPS435NBB
